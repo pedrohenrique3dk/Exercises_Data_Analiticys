@@ -35,9 +35,10 @@ ___
 <img src="https://github.com/user-attachments/assets/3348386c-66d3-492e-9284-b93780d43944" alt = "codigo" width="900" height="500" >
 
 
-&nbsp;&nbsp; 
+&nbsp;
+ 
 
-<a href="">RESPOSTA - Problema 1</a>
+* <a href="https://github.com/pedrohenrique3dk/Exercises_Data_Analiticys/blob/main/Problema_01/Problema_01.ipynb">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟭</a>
 
 ---
 
@@ -50,7 +51,7 @@ ___
 
 &nbsp;&nbsp; 
 
-<a href="">RESPOSTA - Problema 2</a>
+<a href="https://github.com/pedrohenrique3dk/Exercises_Data_Analiticys/blob/main/Problema_02/Problema_02.ipynb">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟮</a>
 
 ---
 
