@@ -55,6 +55,17 @@ ___
 
 ---
 
+### 3. Problema 3
 
+---
+
+<img src="https://github.com/user-attachments/assets/5c560957-8e45-4f49-95fd-f5801589c131" alt = "codigo" width="900" height="500" >
+
+
+&nbsp;&nbsp; 
+
+<a href="">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟯</a>
+
+---
 
 </div>
