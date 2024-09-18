@@ -64,8 +64,23 @@ ___
 
 &nbsp;&nbsp; 
 
-<a href="">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟯</a>
+<a href="https://github.com/pedrohenrique3dk/Exercises_Data_Analiticys/blob/main/Problema_03/Problema_03.ipynb">𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟯</a>
 
 ---
 
+### 3. Problema 3
+
+---
+
+<img src="https://github.com/user-attachments/assets/58db774a-e42f-4e3e-b7e9-e81ae6428936" alt = "codigo" width="900" height="500" >
+
+
+&nbsp;&nbsp; 
+
+<a href="https://github.com/pedrohenrique3dk/Exercises_Data_Analiticys/blob/main/Problema_04/Problema_04.ipynb">𝙍𝙍𝙚𝙨𝙥𝙤𝙨𝙩𝙖_𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙖_𝟬𝟰</a>
+
+---
+
+
 </div>
+
